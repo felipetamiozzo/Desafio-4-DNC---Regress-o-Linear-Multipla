@@ -1,8 +1,5 @@
-# Desafio-4-DNC---Regress-o-Linear-Multipla
+# Regressao Linear Multipla
 Modelo de regressão linear múltipla para empresa de marketing.
-
-
-Desafio: Construindo um Modelo de Regressão para Marketing
 
 ## Introdução
 Este repositório contém um desafio de análise de dados e construção de um modelo de regressão linear para uma campanha de marketing. O objetivo é compreender a relação entre os investimentos em plataformas de publicidade online e o retorno de vendas, e criar um modelo preditivo.
